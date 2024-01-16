@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/nunessport-main/nunesport/nunesport/nunesport.iml" filepath="$PROJECT_DIR$/nunessport-main/nunesport/nunesport/nunesport.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/nunessport-main.iml" filepath="$PROJECT_DIR$/.idea/nunessport-main.iml" />
+    </modules>
+  </component>
+</project>
